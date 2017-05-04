@@ -1,5 +1,3 @@
-package com.pranay.retaildataanalysis
-
 import scala.math.random
 import org.apache.spark.sql.SparkSession
 
